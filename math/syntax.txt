@@ -1,0 +1,24 @@
+\lt \gt \le \ge \neq <, >, ≤, ≥,≠.
+
+\times \div \pm \mp ×, ÷, ±, ∓. \cdot is a centered dot: x⋅y
+
+\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing 
+∪, ∩, ∖, ⊂, ⊆, ⊊, ⊃, ∈, ∉, ∅, ∅
+
+\to \gets \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto \implies \iff 
+→, ←, →, ←, ⇒, ⇐, ↦, ⟹, ⟺
+
+\land \lor \lnot \forall \exists \top \bot \vdash \vDash 
+∧, ∨, ¬, ∀, ∃, ⊤, ⊥, ⊢, ⊨
+
+\star \ast \oplus \circ \bullet 
+⋆, ∗, ⊕, ∘, ∙
+
+\approx \sim \simeq \cong \equiv \prec \lhd 
+≈, ∼, ≃, ≅, ≡, ≺, ⊲
+
+\infty \aleph_0 ∞ℵ0 \nabla \partial ∇, ∂ \Im \Re I, R
+
+Use \dots for the triple dots in a1,a2,…,an and a1+a2+⋯+an
+
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
